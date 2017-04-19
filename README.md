@@ -1,4 +1,7 @@
-# test coverage for  [simple-oauth2 (v1.1.0)](https://github.com/lelylan/simple-oauth2)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-oauth2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-oauth2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-oauth2.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-oauth2)
+# npmtest-simple-oauth2
+
+#### test coverage for  [simple-oauth2 (v1.1.0)](https://github.com/lelylan/simple-oauth2)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-oauth2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-oauth2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-oauth2.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-oauth2)
+
 #### Node.js client for OAuth2
 
 [![NPM](https://nodei.co/npm/simple-oauth2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/simple-oauth2)
